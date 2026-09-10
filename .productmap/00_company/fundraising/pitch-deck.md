@@ -14,9 +14,11 @@ One line: company name + what you do in plain words. [e.g. "Acme — expense rep
 
 ### 2. Problem
 
-Who has the problem, how painful it is, and what it costs them today. Make it concrete — one vivid example beats three abstractions.
+Visual artists and designers waste valuable creative time searching for inspiration in scattered places — Pinterest boards, screenshots, folders, saved links, and half-organized reference libraries.
 
-> [Fill in: problem statement + evidence from customer conversations]
+The pain is most acute at the moment they need momentum. Instead of creating, they start searching. A 10-minute reset turns into a 30-minute scavenger hunt, and the creative flow breaks before ideas become work.
+
+**Why investors should care:** this is a repeated, high-frequency workflow problem that directly reduces productivity and output for a large class of creative workers. Tools that remove this friction can become part of the daily creative stack.
 
 ### 3. Solution
 
